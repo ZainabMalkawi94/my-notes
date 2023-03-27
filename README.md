@@ -1,3 +1,5 @@
+_config.yaml
+
 # my-notes
 ## My Self 
 My name is Zainab Malkawi, I am 28 years old, I finished my master degree in 2022 from the University of Jordan. Now I am a sstudent in ASAC tranning boot camp.
